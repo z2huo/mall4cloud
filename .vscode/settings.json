@@ -1,0 +1,11 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.autobuild.enabled": false,
+    "java.import.exclusions": [
+        "**/target/**"
+    ],
+    "files.watcherExclude": {
+        "**/target/**": true
+    }
+}
